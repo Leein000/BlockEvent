@@ -3,4 +3,5 @@ version: '${project.version}'
 main: new00.new00.New00
 api-version: 1.17
 commands:
-  상자:
+  untitled:
+    상자:

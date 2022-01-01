@@ -3,5 +3,5 @@ version: '${project.version}'
 main: new00.new00.Item
 api-version: 1.17
 commands:
-  untitled:
-    상자:
+  description:
+  useage: 하이

@@ -16,7 +16,7 @@ public final class Item extends JavaPlugin implements Listener {
     @Override
     public void onEnable() {
         getServer().getPluginManager().registerEvents(this, this);
-        getCommand("안녕").setExecutor(this);
+        getCommand("하이").setExecutor(this);
 
     }
 
